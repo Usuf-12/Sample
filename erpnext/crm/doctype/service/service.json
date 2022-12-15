@@ -6,18 +6,24 @@
  "editable_grid": 1,
  "engine": "InnoDB",
  "field_order": [
-  "sample"
+  "sample",
+  "demo"
  ],
  "fields": [
   {
    "fieldname": "sample",
    "fieldtype": "Data",
    "label": "Sample"
+  },
+  {
+   "fieldname": "demo",
+   "fieldtype": "Data",
+   "label": "Demo"
   }
  ],
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2022-12-15 13:45:03.014778",
+ "modified": "2022-12-15 14:12:36.620367",
  "modified_by": "Administrator",
  "module": "CRM",
  "name": "Service",
