@@ -7,8 +7,7 @@
  "engine": "InnoDB",
  "field_order": [
   "sample",
-  "demo",
-  "data_3"
+  "demo"
  ],
  "fields": [
   {
@@ -20,15 +19,11 @@
    "fieldname": "demo",
    "fieldtype": "Data",
    "label": "Demo"
-  },
-  {
-   "fieldname": "data_3",
-   "fieldtype": "Data"
   }
  ],
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2022-12-15 14:36:05.516169",
+ "modified": "2022-12-15 14:45:16.978376",
  "modified_by": "Administrator",
  "module": "CRM",
  "name": "Service",
