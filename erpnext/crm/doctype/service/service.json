@@ -14,11 +14,6 @@
    "fieldname": "sample",
    "fieldtype": "Data",
    "label": "Sample"
-  },
-  {
-   "fieldname": "demo",
-   "fieldtype": "Data",
-   "label": "demo"
   }
  ],
  "index_web_pages_for_search": 1,
